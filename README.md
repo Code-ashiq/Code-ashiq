@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Mohamed ashik
 
+[![Mohammed ashik profile views](https://u8views.com/api/v1/github/profiles/154653628/views/day-week-month-total-count.svg)](https://u8views.com/github/Code-ashiq)
+
 <!--
 **Code-ashiq/Code-ashiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
