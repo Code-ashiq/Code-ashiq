@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Mohamed ashik
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Code-ashiq)
 
 <!--
 **Code-ashiq/Code-ashiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
