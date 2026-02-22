@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mohamed ashik
+## Hi there 👋 I'm Mohammed ashik
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Code-ashiq)
 
